@@ -1,0 +1,13 @@
+test.hxml
+_assets/me.json
+_assets/me_and_friends.json
+_assets/1454243-0b1cbab6e0d1248d7991dbf7f71c4b54e87dcfbd/JsonHxDef.hx
+_assets/1454243-0b1cbab6e0d1248d7991dbf7f71c4b54e87dcfbd/jsonhxdef.rb
+_assets/1454243-0b1cbab6e0d1248d7991dbf7f71c4b54e87dcfbd/test.json
+_temp/hxjsondef.js
+_temp/hxjsondef.js.map
+_temp/index.html
+bin/_test/ASTslack.hx
+bin/_test/ASTtwitter.hx
+bin/_test/slack.json
+bin/_test/twitter.json
